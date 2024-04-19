@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b79cc99c.css",
-    "main.js": "/static/js/main.1d60f4e6.js",
-    "static/js/453.6abce4ce.chunk.js": "/static/js/453.6abce4ce.chunk.js",
+    "main.css": "/static/css/main.3badf7e6.css",
+    "main.js": "/static/js/main.e44e1744.js",
+    "static/js/787.38f1fd14.chunk.js": "/static/js/787.38f1fd14.chunk.js",
     "static/media/UofR_Tower.jpg": "/static/media/UofR_Tower.3e412910a09da136425c.jpg",
     "index.html": "/index.html",
-    "main.b79cc99c.css.map": "/static/css/main.b79cc99c.css.map",
-    "main.1d60f4e6.js.map": "/static/js/main.1d60f4e6.js.map",
-    "453.6abce4ce.chunk.js.map": "/static/js/453.6abce4ce.chunk.js.map"
+    "main.3badf7e6.css.map": "/static/css/main.3badf7e6.css.map",
+    "main.e44e1744.js.map": "/static/js/main.e44e1744.js.map",
+    "787.38f1fd14.chunk.js.map": "/static/js/787.38f1fd14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b79cc99c.css",
-    "static/js/main.1d60f4e6.js"
+    "static/css/main.3badf7e6.css",
+    "static/js/main.e44e1744.js"
   ]
 }
