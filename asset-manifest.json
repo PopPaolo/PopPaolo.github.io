@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.41b23766.css",
-    "main.js": "/static/js/main.91b4d550.js",
-    "static/js/787.7808049d.chunk.js": "/static/js/787.7808049d.chunk.js",
-    "static/media/UofR_Tower.jpg": "/static/media/UofR_Tower.3e412910a09da136425c.jpg",
+    "main.css": "/static/css/main.1d8cf2d8.css",
+    "main.js": "/static/js/main.818a7ca4.js",
+    "static/js/453.6abce4ce.chunk.js": "/static/js/453.6abce4ce.chunk.js",
+    "static/media/Positano_1.jpg": "/static/media/Positano_1.87c8b43492b67c5eb2e1.jpg",
+    "static/media/Rome_3.jpg": "/static/media/Rome_3.ff1e408c3139353877fc.jpg",
+    "static/media/Rome_4.jpg": "/static/media/Rome_4.93c4a5a95104d01b9765.jpg",
+    "static/media/Rome_1.jpg": "/static/media/Rome_1.0cbcf4739730500e489b.jpg",
+    "static/media/Florence_1.jpg": "/static/media/Florence_1.edf62b29f768e0bb66c9.jpg",
+    "static/media/Rome_2.jpg": "/static/media/Rome_2.48286daf658c4ed821be.jpg",
+    "static/media/IslandMoments-Regular.ttf": "/static/media/IslandMoments-Regular.5e2b62d2aef2a23f3850.ttf",
+    "static/media/RockSalt-Regular.ttf": "/static/media/RockSalt-Regular.95f10efb43f0ccd46405.ttf",
+    "static/media/NothingYouCouldDo-Regular.ttf": "/static/media/NothingYouCouldDo-Regular.3170b8e5d362ca787108.ttf",
+    "static/media/P_Icon.svg": "/static/media/P_Icon.04c524db3aab568055ef2cd506a2c22c.svg",
     "index.html": "/index.html",
-    "main.41b23766.css.map": "/static/css/main.41b23766.css.map",
-    "main.91b4d550.js.map": "/static/js/main.91b4d550.js.map",
-    "787.7808049d.chunk.js.map": "/static/js/787.7808049d.chunk.js.map"
+    "main.1d8cf2d8.css.map": "/static/css/main.1d8cf2d8.css.map",
+    "main.818a7ca4.js.map": "/static/js/main.818a7ca4.js.map",
+    "453.6abce4ce.chunk.js.map": "/static/js/453.6abce4ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41b23766.css",
-    "static/js/main.91b4d550.js"
+    "static/css/main.1d8cf2d8.css",
+    "static/js/main.818a7ca4.js"
   ]
 }
