@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d189be66.css",
-    "main.js": "/static/js/main.d1860367.js",
+    "main.js": "/static/js/main.d7222498.js",
     "static/js/206.530e8b43.chunk.js": "/static/js/206.530e8b43.chunk.js",
     "static/media/Positano_1.jpg": "/static/media/Positano_1.87c8b43492b67c5eb2e1.jpg",
     "static/media/Rome_3.jpg": "/static/media/Rome_3.ff1e408c3139353877fc.jpg",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.d189be66.css",
-    "static/js/main.d1860367.js"
+    "static/js/main.d7222498.js"
   ]
 }
