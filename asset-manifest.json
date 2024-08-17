@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1a8245e5.css",
-    "main.js": "/static/js/main.4bd58ac5.js",
-    "static/js/453.6abce4ce.chunk.js": "/static/js/453.6abce4ce.chunk.js",
+    "main.css": "/static/css/main.d189be66.css",
+    "main.js": "/static/js/main.50a7f136.js",
+    "static/js/206.530e8b43.chunk.js": "/static/js/206.530e8b43.chunk.js",
     "static/media/Positano_1.jpg": "/static/media/Positano_1.87c8b43492b67c5eb2e1.jpg",
     "static/media/Rome_3.jpg": "/static/media/Rome_3.ff1e408c3139353877fc.jpg",
     "static/media/Rome_4.jpg": "/static/media/Rome_4.93c4a5a95104d01b9765.jpg",
@@ -13,13 +13,10 @@
     "static/media/RockSalt-Regular.ttf": "/static/media/RockSalt-Regular.95f10efb43f0ccd46405.ttf",
     "static/media/NothingYouCouldDo-Regular.ttf": "/static/media/NothingYouCouldDo-Regular.3170b8e5d362ca787108.ttf",
     "static/media/P_Icon.svg": "/static/media/P_Icon.04c524db3aab568055ef2cd506a2c22c.svg",
-    "index.html": "/index.html",
-    "main.1a8245e5.css.map": "/static/css/main.1a8245e5.css.map",
-    "main.4bd58ac5.js.map": "/static/js/main.4bd58ac5.js.map",
-    "453.6abce4ce.chunk.js.map": "/static/js/453.6abce4ce.chunk.js.map"
+    "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.1a8245e5.css",
-    "static/js/main.4bd58ac5.js"
+    "static/css/main.d189be66.css",
+    "static/js/main.50a7f136.js"
   ]
 }
