@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a3c72ee.css",
-    "main.js": "/static/js/main.cce23ac0.js",
+    "main.css": "/static/css/main.8b8b0d72.css",
+    "main.js": "/static/js/main.dec07c27.js",
     "static/js/206.530e8b43.chunk.js": "/static/js/206.530e8b43.chunk.js",
     "static/media/Positano_1.jpg": "/static/media/Positano_1.87c8b43492b67c5eb2e1.jpg",
     "static/media/Rome_3.jpg": "/static/media/Rome_3.ff1e408c3139353877fc.jpg",
@@ -14,11 +14,10 @@
     "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/RockSalt-Regular.ttf": "/static/media/RockSalt-Regular.95f10efb43f0ccd46405.ttf",
     "static/media/NothingYouCouldDo-Regular.ttf": "/static/media/NothingYouCouldDo-Regular.3170b8e5d362ca787108.ttf",
-    "static/media/P_Icon.svg": "/static/media/P_Icon.4dd1391f419abe92b659fd8c346bb514.svg",
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.3a3c72ee.css",
-    "static/js/main.cce23ac0.js"
+    "static/css/main.8b8b0d72.css",
+    "static/js/main.dec07c27.js"
   ]
 }
